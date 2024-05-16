@@ -10,11 +10,9 @@ consiste en una visualización que representa los esfuerzos de trabajo consumido
 # Archivos y uso de los mismos
 El repositorio cuenta con los siguientes archivos:
 
-+ Archivo README.md: contiene los pasos para ver la memoria
-+ Archivo M2.859_PEC3_Garcia_Esteban_Javier: contiene la memoria con el PDF de la práctica
-+ Archivo /project/M2.859_PEC3_Garcia_Esteban_Javier.pbix
-Contiene el projecto en Plantilla PowerBI con las visualizaciones creadas
-+ Archivo /source/Imputaciones_ultimos12meses.zip
-Contiene un archivo CSV y otro formato excel con los datos necesarios para cargar las imputaciones en el proyecto PowerBI
++ Archivo **README.md**: contiene los pasos para ver la memoria.
++ Archivo **M2.859_PEC3_Garcia_Esteban_Javier.pdf**: contiene la memoria con el PDF de la práctica.
++ Archivo **/project/M2.859_PEC3_Garcia_Esteban_Javier.pbix**: Contiene el projecto en Plantilla PowerBI con las visualizaciones creadas.
++ Archivo **/source/Imputaciones_ultimos12meses.zip**: Contiene un archivo CSV y otro formato excel con los datos necesarios para cargar las imputaciones en el proyecto PowerBI.
 
 
