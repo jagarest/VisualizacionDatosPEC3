@@ -10,4 +10,6 @@ consiste en una visualización que representa los esfuerzos de trabajo consumido
 # Archivos y uso de los mismos
 eL repoitorio cuenta con los siguientes archivos
 
-## Carpeta /source/
+## Archivo /project/M2.859_PEC3_Garcia_Esteban_Javier.pbix
+Contiene el projecto en Plantilla PowerBI con las visualizaciones creadas
+## Archivo /source/
