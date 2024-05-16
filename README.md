@@ -8,8 +8,13 @@ Análisis de consumo de esfuerzos para el servicio de cobertura.
 consiste en una visualización que representa los esfuerzos de trabajo consumidos por la empresa externa que desarrolla el proyecto del que formo parte.
 
 # Archivos y uso de los mismos
-eL repoitorio cuenta con los siguientes archivos
+El repositorio cuenta con los siguientes archivos:
 
-## Archivo /project/M2.859_PEC3_Garcia_Esteban_Javier.pbix
++ Archivo README.md: contiene los pasos para ver la memoria
++ Archivo M2.859_PEC3_Garcia_Esteban_Javier: contiene la memoria con el PDF de la práctica
++ Archivo /project/M2.859_PEC3_Garcia_Esteban_Javier.pbix
 Contiene el projecto en Plantilla PowerBI con las visualizaciones creadas
-## Archivo /source/
++ Archivo /source/Imputaciones_ultimos12meses.zip
+Contiene un archivo CSV y otro formato excel con los datos necesarios para cargar las imputaciones en el proyecto PowerBI
+
+
